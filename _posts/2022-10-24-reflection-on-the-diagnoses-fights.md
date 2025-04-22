@@ -1,0 +1,26 @@
+---
+title: "Reflection on the Diagnoses Fights"
+---
+
+> Will I lose my dignity?
+>
+> Will someone care?
+>
+>  Will I wake tomorrow
+> from this nightmare?
+>
+> &mdash;  “Will I” lyrics, Rent soundtrack
+
+In 2008 and 2009, I was really sick. I had a rough year of bronchitis and sinus issues. I got so sick that I can remember hearing this song – “Will I” from Rent – and crying. I’ve had sinus issues all my life – chronic sinusitis and allergic rhinitis are long-time diagnoses that I’ve just accepted as a part of me. But bronchitis – it hit really hard. How hard? Let’s put it this way – I wouldn’t walk across the office or talk with people at work because I knew every word I uttered, every step I walked would cost energy that I had in a very limited supply. I knew something was very wrong, but I didn’t know what.
+
+Talking with friends and doctors, it was a challenge. They saw the fight in me and knew it was something really bad. My doctor ordered a pulmonary function test, and it came back that I was breathing at 30% of what I should have. 😮 I won’t forget the day – November 8, 2008. I got bad news x 2 – one of my dear gaming friends died in a car crash and I got the diagnosis of severe COPD. I remember hanging up the phone at work, setting my head on the desk, and just bawling. 😭
+
+I fought that severe COPD diagnosis. I was 28 at the time, and I had a life ahead of me. There was no way I was going to let it slow me down. In addition to the bronchodilators and other meds, I took unconventional routes to healing – I sang with Guitar Hero and Rock Band. My pulmonologist looked at me with a very puzzled look when I told him what I did. But he had the “ah ha” moment when I told him the why – I was a clarinetist when I was younger. You have to have good breath control when playing. That also applies to singing. So I used singing to help rebuild my lungs and breath control, and it worked wonderfully. Within a year of meds and singing and speaking at conferences for the tech community, I had built my lungs back up. My diagnosis was changed – no longer severe COPD, now at asthma. 🎉
+
+In 2018 and 2019, I met more challenges. In the late 2000s, I battled 2 rounds of shingles. I got lucky that we caught them ahead of the breakout – blood tests confirmed what we suspected – and meds knocked it out. However, in late 2018, shingles returned and I hadn’t noticed the symptoms until it was too late. I was working and felt like I had a really bad sunburn on my back. It turned out to be erupted shingles. 😞 I also had to switch doctors since my primary care doctor retired. So I had to bring my history with them and let them know that I’m not new to shingles. Unfortunately, this third case of shingles wouldn’t be kind – I lost my left side due to postherpetic neuralgia (PHN). From January 2019 through May 2019, I battled PHN. I had pins and needles throughout my left side. We found gabapentin to be a life saver, though I had to deal with the meds in a nonconventional dosing. I couldn’t take the heavier dose, so I worked with my doctors on a lower dose and different schedule. I was able to stairstep off the gabapentin and back to normality because I trusted my instincts and had doctors willing to work with me and trust me. I had a fourth case of shingles show up shortly after, and this time, the urgent care team got me meds before it could erupt. They couldn’t understand how I knew it was shingles yet again, but I recognized the pains and nerve lines and could explain how my stress levels were through the roof due to other things. They trusted me, and I got the meds before eruption.
+
+So… why am I reflecting now? What does this have to do with my Psoriatic Disease adventures? This is to show you that I’m not new to adjusting to diagnoses and I’m here to fight. I know that I won’t lose the severe diagnoses part – I was diagnosed with severe psoriasis in June 2020, suspected severe psoriatic arthritis in July 2020, and a confirmed severe psoriatic arthritis in November 2020. These were just the start of it. When I got the severe psoriasis diagnosis, I was both relieved to get a name for my disease and nervous because I knew nothing about what I was suffering or what was ahead. When the arthritis showed up so quickly after, I was scared because of the pain and thankful that I have doctors who truly listen and believe in me. As my home page notes, there are other diagnoses – and those are related to my psoriatic disease story too.
+
+What will you see in this blog? You will see my story as I finally tell it. You will see how I learned about prior authorization and have worked with my doctors and nurses on fighting with insurance companies to get covered. You will see how I navigate the patient support channels for my various meds. You will see the frustrations as well as the celebrations.
+
+So thank you for taking the time to read this, and I hope sharing my journey helps others to realize that you aren’t alone in these battles. I’m here to share my knowledge and experience in this realm.

@@ -1,0 +1,24 @@
+baseurl: ""
+title: Psodukie's Psoriatic Adventures
+description: "Sadukie's Adventures with Psoriatic Disease'"
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+defaults:
+ -
+  scope:
+    path: ""
+    type: "authors"
+  values:
+    layout: "author"
+ -
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    author: "sadukie"
+collections:
+  authors:
+    output: true
