@@ -16,7 +16,7 @@ Today's Heat Therapy songs included:
 - [Kevin Olusola's "Dark Winter"](https://www.youtube.com/watch?v=gKRM0oqI_sw)
 - ["From Now On" from The Greatest Showman](https://www.youtube.com/watch?v=iW2FUY3N-n0&pp=ygULZnJvbSBub3cgb24%3D)
 - ["The Greatest Show" from The Greatest Showman](https://www.youtube.com/watch?v=NyVYXRD1Ans&pp=ygUSdGhlIGdyZWF0ZXN0IHNob3cg)
-- []"This Is Me" from The Greatest Showman](https://www.youtube.com/watch?v=wEJd2RyGm8Q&pp=ygUKdGhpcyBpcyBtZQ%3D%3D)
+- ["This Is Me" from The Greatest Showman](https://www.youtube.com/watch?v=wEJd2RyGm8Q&pp=ygUKdGhpcyBpcyBtZQ%3D%3D)
 - [Kevin Olusola's "Smile"](https://www.youtube.com/watch?v=f74R6BYze4A)
 
 One perk of listening to music during this means that I can also sing along with it, which is important for me for keeping my lungs strong and getting ready for giving talks.
